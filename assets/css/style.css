@@ -6,7 +6,6 @@ body {
   
   textarea{
     background: transparent;
-    border: none;
     resize: none;
     color: #000000;
     border-left: 1px solid black;
@@ -70,6 +69,4 @@ body {
     transition: all .3s ease-in-out;
   }
 
-  .container {
-    border-radius: 0%;
-  }
+  
